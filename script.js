@@ -8,7 +8,7 @@ function answerYes() {
   document.getElementById("init").innerText = "HEYYYYYY 🎉🎉";
   document.getElementById("message").style.display = "block";
   document.getElementById("messageText").innerText = "Ich gratuliere, sie werden denn besten date ihres leben haben 🥂🍾";
-  document.getElementById("messageText2").innerText = "Drücken Sie unten auf San und schreiben Sie mir eine Nachricht :)";
+  document.getElementById("messageText2").innerText = "Drücken Sie unten auf Imran und schreiben Sie mir eine Nachricht :)";
   showConfetti()
 }
 
